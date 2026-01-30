@@ -1,46 +1,214 @@
 {
   "skills": [
-    { "id": "000", "url": "https://bbangserver.github.io/BBangSkills/000.img", "sha256": "..." },
-    { "id": "100", "url": "https://bbangserver.github.io/BBangSkills/100.img", "sha256": "..." },
-    { "id": "110", "url": "https://bbangserver.github.io/BBangSkills/110.img", "sha256": "..." },
-    { "id": "111", "url": "https://bbangserver.github.io/BBangSkills/111.img", "sha256": "..." },
-    { "id": "112", "url": "https://bbangserver.github.io/BBangSkills/112.img", "sha256": "..." },
-    { "id": "120", "url": "https://bbangserver.github.io/BBangSkills/120.img", "sha256": "..." },
-    { "id": "121", "url": "https://bbangserver.github.io/BBangSkills/121.img", "sha256": "..." },
-    { "id": "122", "url": "https://bbangserver.github.io/BBangSkills/122.img", "sha256": "..." },
-    { "id": "130", "url": "https://bbangserver.github.io/BBangSkills/130.img", "sha256": "..." },
-    { "id": "131", "url": "https://bbangserver.github.io/BBangSkills/131.img", "sha256": "..." },
-    { "id": "132", "url": "https://bbangserver.github.io/BBangSkills/132.img", "sha256": "..." },
-    { "id": "200", "url": "https://bbangserver.github.io/BBangSkills/200.img", "sha256": "..." },
-    { "id": "210", "url": "https://bbangserver.github.io/BBangSkills/210.img", "sha256": "..." },
-    { "id": "211", "url": "https://bbangserver.github.io/BBangSkills/211.img", "sha256": "..." },
-    { "id": "212", "url": "https://bbangserver.github.io/BBangSkills/212.img", "sha256": "..." },
-    { "id": "220", "url": "https://bbangserver.github.io/BBangSkills/220.img", "sha256": "..." },
-    { "id": "221", "url": "https://bbangserver.github.io/BBangSkills/221.img", "sha256": "..." },
-    { "id": "222", "url": "https://bbangserver.github.io/BBangSkills/222.img", "sha256": "..." },
-    { "id": "230", "url": "https://bbangserver.github.io/BBangSkills/230.img", "sha256": "..." },
-    { "id": "231", "url": "https://bbangserver.github.io/BBangSkills/231.img", "sha256": "..." },
-    { "id": "232", "url": "https://bbangserver.github.io/BBangSkills/232.img", "sha256": "..." },
-    { "id": "300", "url": "https://bbangserver.github.io/BBangSkills/300.img", "sha256": "..." },
-    { "id": "310", "url": "https://bbangserver.github.io/BBangSkills/310.img", "sha256": "..." },
-    { "id": "311", "url": "https://bbangserver.github.io/BBangSkills/311.img", "sha256": "..." },
-    { "id": "312", "url": "https://bbangserver.github.io/BBangSkills/312.img", "sha256": "..." },
-    { "id": "320", "url": "https://bbangserver.github.io/BBangSkills/320.img", "sha256": "..." },
-    { "id": "321", "url": "https://bbangserver.github.io/BBangSkills/321.img", "sha256": "..." },
-    { "id": "322", "url": "https://bbangserver.github.io/BBangSkills/322.img", "sha256": "..." },
-    { "id": "400", "url": "https://bbangserver.github.io/BBangSkills/400.img", "sha256": "..." },
-    { "id": "410", "url": "https://bbangserver.github.io/BBangSkills/410.img", "sha256": "..." },
-    { "id": "411", "url": "https://bbangserver.github.io/BBangSkills/411.img", "sha256": "..." },
-    { "id": "412", "url": "https://bbangserver.github.io/BBangSkills/412.img", "sha256": "..." },
-    { "id": "420", "url": "https://bbangserver.github.io/BBangSkills/420.img", "sha256": "..." },
-    { "id": "421", "url": "https://bbangserver.github.io/BBangSkills/421.img", "sha256": "..." },
-    { "id": "422", "url": "https://bbangserver.github.io/BBangSkills/422.img", "sha256": "..." },
-    { "id": "500", "url": "https://bbangserver.github.io/BBangSkills/500.img", "sha256": "..." },
-    { "id": "510", "url": "https://bbangserver.github.io/BBangSkills/510.img", "sha256": "..." },
-    { "id": "511", "url": "https://bbangserver.github.io/BBangSkills/511.img", "sha256": "..." },
-    { "id": "512", "url": "https://bbangserver.github.io/BBangSkills/512.img", "sha256": "..." },
-    { "id": "520", "url": "https://bbangserver.github.io/BBangSkills/520.img", "sha256": "..." },
-    { "id": "521", "url": "https://bbangserver.github.io/BBangSkills/521.img", "sha256": "..." },
-    { "id": "522", "url": "https://bbangserver.github.io/BBangSkills/522.img", "sha256": "..." }
+    {
+      "id": "000",
+      "url": "https://bbangserver.github.io/BBangSkills/000.img",
+      "sha256": "521f064bf0f7df01ee16687768ea09b814a4cee65a9a7b1b5e2b1cf2fb52a4b6"
+    },
+    {
+      "id": "100",
+      "url": "https://bbangserver.github.io/BBangSkills/100.img",
+      "sha256": "f062f84a97bb10778997dd4daaf03dc38311c79b8b2833e976f221c154761d80"
+    },
+    {
+      "id": "110",
+      "url": "https://bbangserver.github.io/BBangSkills/110.img",
+      "sha256": "9cb5f5c8136ab9ba4c6d0078850783a7c1ad756caabceb13e4ef7c71c2a7fa94"
+    },
+    {
+      "id": "111",
+      "url": "https://bbangserver.github.io/BBangSkills/111.img",
+      "sha256": "c9ddfc3d43f347f7a361bd17bf4cfada4cbbbcc7a46cc690346b0eddc854fd3f"
+    },
+    {
+      "id": "112",
+      "url": "https://bbangserver.github.io/BBangSkills/112.img",
+      "sha256": "0ca964395db1f7bb80529c57e50d0cbeebd04a20de9a4aba5c531b29f81fafa0"
+    },
+    {
+      "id": "120",
+      "url": "https://bbangserver.github.io/BBangSkills/120.img",
+      "sha256": "b304cef82f15f196ccc2f1275a61890d9fe27657b46d2c49fa6ab53dd6fbb0ab"
+    },
+    {
+      "id": "121",
+      "url": "https://bbangserver.github.io/BBangSkills/121.img",
+      "sha256": "a1c5522539cee035451e690bb7d484232007d2cc6681e7e232b5ced144c2ad93"
+    },
+    {
+      "id": "122",
+      "url": "https://bbangserver.github.io/BBangSkills/122.img",
+      "sha256": "679a35d2fda06c9c67001163a44ee531ec5e2f7f4a3ee79575481a44115649e9"
+    },
+    {
+      "id": "130",
+      "url": "https://bbangserver.github.io/BBangSkills/130.img",
+      "sha256": "1217eefed5469046f63d5a3b613ac1be8529e0dd4f95568f32a25cd7bd176d16"
+    },
+    {
+      "id": "131",
+      "url": "https://bbangserver.github.io/BBangSkills/131.img",
+      "sha256": "1c9bd984237f2e4e9ef6fa6087ee87c5d734a7a9bbcd64e3e74f0293ffeead74"
+    },
+    {
+      "id": "132",
+      "url": "https://bbangserver.github.io/BBangSkills/132.img",
+      "sha256": "1b97ffee70cdb9224bec07e5382ea8acd4c2f8fede0b9fb4a82d62f6c8dabc57"
+    },
+    {
+      "id": "200",
+      "url": "https://bbangserver.github.io/BBangSkills/200.img",
+      "sha256": "ec49ac04c1ae376384b9270ab54066a435d53f2793c4cfc9769d6a75be109b92"
+    },
+    {
+      "id": "210",
+      "url": "https://bbangserver.github.io/BBangSkills/210.img",
+      "sha256": "ee08f5a88fe7e299e797ab66ab1535426edc429a596ddf530a9459b6c03faf37"
+    },
+    {
+      "id": "211",
+      "url": "https://bbangserver.github.io/BBangSkills/211.img",
+      "sha256": "0fa471924b40ef1b617314862bb01c51a7881a6d3f0e84a9c40cfc66e06009c4"
+    },
+    {
+      "id": "212",
+      "url": "https://bbangserver.github.io/BBangSkills/212.img",
+      "sha256": "78b844638c8ed57be345dc3974ae9072b9289c66c9e7b476a6555ffd6b56c245"
+    },
+    {
+      "id": "220",
+      "url": "https://bbangserver.github.io/BBangSkills/220.img",
+      "sha256": "a334942b8b877ea294803bcb346d2ff0953ad782273be9b9f8010dc4805d89c0"
+    },
+    {
+      "id": "221",
+      "url": "https://bbangserver.github.io/BBangSkills/221.img",
+      "sha256": "cf7517b4ce75dfd7a40e80da372687d0614315e4bfab015f388b085203353c7c"
+    },
+    {
+      "id": "222",
+      "url": "https://bbangserver.github.io/BBangSkills/222.img",
+      "sha256": "4af6db3945917ff6f8f44d90541cc06fe2f017c7d64bce7cb558a5ee38ebe19a"
+    },
+    {
+      "id": "230",
+      "url": "https://bbangserver.github.io/BBangSkills/230.img",
+      "sha256": "c59e81b8288f415ff23586fdfade27043a1d281da027c447b1f3b2cf1e6f5623"
+    },
+    {
+      "id": "231",
+      "url": "https://bbangserver.github.io/BBangSkills/231.img",
+      "sha256": "cd092e658195d439c2c58664a14dcd9029c6d33bf98132feb92cbdf6fa31c1c6"
+    },
+    {
+      "id": "232",
+      "url": "https://bbangserver.github.io/BBangSkills/232.img",
+      "sha256": "ce5e1076daee9288d90fd350cffe89311da369ce6b176d965b49b2e4731e6935"
+    },
+    {
+      "id": "300",
+      "url": "https://bbangserver.github.io/BBangSkills/300.img",
+      "sha256": "f383c5d97fb6f6be62227288ce0cbf96561dc43451dd2df9e72fd37f829e411d"
+    },
+    {
+      "id": "310",
+      "url": "https://bbangserver.github.io/BBangSkills/310.img",
+      "sha256": "bf010fd1effe1dff14bc5eb1501dd542abe6fad19ff442583fbe243d6c3f93bd"
+    },
+    {
+      "id": "311",
+      "url": "https://bbangserver.github.io/BBangSkills/311.img",
+      "sha256": "2b088c0e93ab0428838a4a8ae06278a51be165169587e0f2b000ea1f5687bbcd"
+    },
+    {
+      "id": "312",
+      "url": "https://bbangserver.github.io/BBangSkills/312.img",
+      "sha256": "bcb9422489fca1fa49f5263bbd8bb7dbb0e0149ff0504de63e1b231ea36b0a41"
+    },
+    {
+      "id": "320",
+      "url": "https://bbangserver.github.io/BBangSkills/320.img",
+      "sha256": "97aebfd5f088a5e556a6278af0972dc92cc2f192da9ab7d6106e846d25246d1a"
+    },
+    {
+      "id": "321",
+      "url": "https://bbangserver.github.io/BBangSkills/321.img",
+      "sha256": "ef8b19ebfb3ae41ae445ff75477d0c54d1f24f961bd7b5713bca547eb5a27d41"
+    },
+    {
+      "id": "322",
+      "url": "https://bbangserver.github.io/BBangSkills/322.img",
+      "sha256": "7401ba5dc20d4b330fde47c91fa229b1b2058cd9ff605f62e24ece366bcf12ec"
+    },
+    {
+      "id": "400",
+      "url": "https://bbangserver.github.io/BBangSkills/400.img",
+      "sha256": "b3f85fa08803d1121c918e616160d8db8b0d49ea4ff0c90352cb8822e3ea031c"
+    },
+    {
+      "id": "410",
+      "url": "https://bbangserver.github.io/BBangSkills/410.img",
+      "sha256": "f61135e01ae9d0981eb7219fdb9b2a25f6f0f1e5228f79b14b71633677763956"
+    },
+    {
+      "id": "411",
+      "url": "https://bbangserver.github.io/BBangSkills/411.img",
+      "sha256": "92704bcc8bb1dc8a9ee4c2cbeb2fedb281e1a1e62f8736032473093dc901491f"
+    },
+    {
+      "id": "412",
+      "url": "https://bbangserver.github.io/BBangSkills/412.img",
+      "sha256": "0d6d7152abe1d82e1e2ef917db69b10d9cea9cf2d8e56cdba52df5aadda8935a"
+    },
+    {
+      "id": "420",
+      "url": "https://bbangserver.github.io/BBangSkills/420.img",
+      "sha256": "90200d75e2b4800f601bb4df73d8ff7326c71ca5f56df56f1639cafac44b5e63"
+    },
+    {
+      "id": "421",
+      "url": "https://bbangserver.github.io/BBangSkills/421.img",
+      "sha256": "4b5f65192bd91e4ceb1cf424d05b394455fe99ac6852d564ff2bd35121968e20"
+    },
+    {
+      "id": "422",
+      "url": "https://bbangserver.github.io/BBangSkills/422.img",
+      "sha256": "ff0eb3f6738e89c3df73b6f1237d6a117f2622f05e8e78220fbcd16080509bb9"
+    },
+    {
+      "id": "500",
+      "url": "https://bbangserver.github.io/BBangSkills/500.img",
+      "sha256": "2fca115f4ec8f8b2c911ff81c44902f053bf7343915fb28212f6dfd43d69b142"
+    },
+    {
+      "id": "510",
+      "url": "https://bbangserver.github.io/BBangSkills/510.img",
+      "sha256": "10568f24e1cfca51d0feae9bbb04e370ef3b5698d4ff2ac9180b3fcb51fa6646"
+    },
+    {
+      "id": "511",
+      "url": "https://bbangserver.github.io/BBangSkills/511.img",
+      "sha256": "caae2b10f01e4c5b33ca711e0a5879eaece71068e1064c9a24302a3c2c339841"
+    },
+    {
+      "id": "512",
+      "url": "https://bbangserver.github.io/BBangSkills/512.img",
+      "sha256": "7d1045e740f1d5af60aa2d7b918cacec2687406e1f982e5ce761a55c474eb969"
+    },
+    {
+      "id": "520",
+      "url": "https://bbangserver.github.io/BBangSkills/520.img",
+      "sha256": "1e831e463ddc0568e3e7c3b039a3c9d491ae9021148fb4bebefd32519e52309d"
+    },
+    {
+      "id": "521",
+      "url": "https://bbangserver.github.io/BBangSkills/521.img",
+      "sha256": "3b4b60cfee2426148806e99da19b504f5236e9398473c9c2af48013f339134b7"
+    },
+    {
+      "id": "522",
+      "url": "https://bbangserver.github.io/BBangSkills/522.img",
+      "sha256": "5dcf5e8f560a234eab802acea063ab3422b783c946a2f9dc330b651005cfa209"
+    }
   ]
 }
